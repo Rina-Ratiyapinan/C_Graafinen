@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\laskin\\laskin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|solutionrelative:laskin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\laskin\\laskin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|solutionrelative:laskin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\laskin\\laskin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A488844-20DB-4577-BF50-88E23718858A}|Laskin\\Laskin.csproj|solutionrelative:laskin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Laskin\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.Designer.cs",
+              "RelativeToolTip": "Laskin\\Form1.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAASwEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:23:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.cs",
+              "RelativeDocumentMoniker": "Laskin\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.cs",
+              "RelativeToolTip": "Laskin\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:18:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.cs",
+              "RelativeDocumentMoniker": "Laskin\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Laskin\\Laskin\\Form1.cs [Design]",
+              "RelativeToolTip": "Laskin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:13:36.985Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

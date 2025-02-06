@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\bin\Debug\net8.0-windows\LukujenJarjestys.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\bin\Debug\net8.0-windows\LukujenJarjestys.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\bin\Debug\net8.0-windows\LukujenJarjestys.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\bin\Debug\net8.0-windows\LukujenJarjestys.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\bin\Debug\net8.0-windows\LukujenJarjestys.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\Harjoitus_5.LukujenJarjestys.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\refint\LukujenJarjestys.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\LukujenJarjestys.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 5\Harjoitus 5\obj\Debug\net8.0-windows\ref\LukujenJarjestys.dll

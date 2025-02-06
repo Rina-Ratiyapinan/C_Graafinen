@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|solutionrelative:harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\Harjoitus 6.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\Harjoitus 6.csproj|solutionrelative:harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\harjoitus 6\\harjoitus 6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|solutionrelative:harjoitus 6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\harjoitus 6\\harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD16444E-D4C6-41E7-874A-20E87CE0D2D7}|Harjoitus 6\\SalasananTarkastus.csproj|solutionrelative:harjoitus 6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Harjoitus 6\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.Designer.cs",
+              "RelativeToolTip": "Harjoitus 6\\Form1.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:49:50.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 6\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs",
+              "RelativeToolTip": "Harjoitus 6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:30:40.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 6\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus 6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:29:05.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus 6\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus 6\\Harjoitus 6\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus 6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:23:57.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

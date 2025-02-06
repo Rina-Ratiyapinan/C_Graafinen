@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\bin\Debug\net8.0-windows\IänLaskin.exe
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\bin\Debug\net8.0-windows\IänLaskin.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\bin\Debug\net8.0-windows\IänLaskin.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\bin\Debug\net8.0-windows\IänLaskin.dll
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\bin\Debug\net8.0-windows\IänLaskin.pdb
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.dll
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\refint\IänLaskin.dll
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.pdb
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\IänLaskin.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\IänLaskin\IänLaskin\obj\Debug\net8.0-windows\ref\IänLaskin.dll

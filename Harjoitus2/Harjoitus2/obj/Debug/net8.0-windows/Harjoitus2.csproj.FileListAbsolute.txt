@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.Harjoitus2.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\bin\Debug\net8.0-windows\Harjoitus2.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\bin\Debug\net8.0-windows\Harjoitus2.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\bin\Debug\net8.0-windows\Harjoitus2.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\bin\Debug\net8.0-windows\Harjoitus2.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\bin\Debug\net8.0-windows\Harjoitus2.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\refint\Harjoitus2.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\Harjoitus2.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus2\Harjoitus2\obj\Debug\net8.0-windows\ref\Harjoitus2.dll

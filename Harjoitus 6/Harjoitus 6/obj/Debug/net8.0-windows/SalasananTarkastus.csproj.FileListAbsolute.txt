@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\bin\Debug\net8.0-windows\SalasananTarkastus.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\bin\Debug\net8.0-windows\SalasananTarkastus.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\bin\Debug\net8.0-windows\SalasananTarkastus.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\bin\Debug\net8.0-windows\SalasananTarkastus.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\bin\Debug\net8.0-windows\SalasananTarkastus.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\Harjoitus_6.SalasanaForm.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\refint\SalasananTarkastus.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\SalasananTarkastus.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus 6\Harjoitus 6\obj\Debug\net8.0-windows\ref\SalasananTarkastus.dll
