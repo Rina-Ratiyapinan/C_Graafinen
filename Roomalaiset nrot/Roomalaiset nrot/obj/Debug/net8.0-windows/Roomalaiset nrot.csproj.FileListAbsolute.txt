@@ -1,0 +1,18 @@
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset_nrot.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\bin\Debug\net8.0-windows\Roomalaiset nrot.exe
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\bin\Debug\net8.0-windows\Roomalaiset nrot.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\bin\Debug\net8.0-windows\Roomalaiset nrot.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\bin\Debug\net8.0-windows\Roomalaiset nrot.dll
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\bin\Debug\net8.0-windows\Roomalaiset nrot.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.dll
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\refint\Roomalaiset nrot.dll
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset nrot.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\ref\Roomalaiset nrot.dll
+C:\Users\rinar\source\repos\C_Graafinen\Roomalaiset nrot\Roomalaiset nrot\obj\Debug\net8.0-windows\Roomalaiset_nrot.Properties.Resources.resources

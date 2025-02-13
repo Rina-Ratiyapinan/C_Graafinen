@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Roomalaiset nrot/1.0.0": {
+        "runtime": {
+          "Roomalaiset nrot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roomalaiset nrot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
