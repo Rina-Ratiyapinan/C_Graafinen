@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan_muunnos.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\bin\Debug\net8.0-windows\Lämpötilan muunnos.exe
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\bin\Debug\net8.0-windows\Lämpötilan muunnos.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\bin\Debug\net8.0-windows\Lämpötilan muunnos.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\bin\Debug\net8.0-windows\Lämpötilan muunnos.dll
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\bin\Debug\net8.0-windows\Lämpötilan muunnos.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.dll
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\refint\Lämpötilan muunnos.dll
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\Lämpötilan muunnos.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Lämpötilan muunnos\Lämpötilan muunnos\obj\Debug\net8.0-windows\ref\Lämpötilan muunnos.dll

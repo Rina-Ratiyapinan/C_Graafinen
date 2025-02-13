@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\L\u00E4mp\u00F6tilan muunnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FB020C-1297-49E8-AA35-3968D0B13AC2}|L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\l\u00E4mp\u00F6tilan muunnos\\l\u00E4mp\u00F6tilan muunnos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FB020C-1297-49E8-AA35-3968D0B13AC2}|L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos.csproj|solutionrelative:l\u00E4mp\u00F6tilan muunnos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FB020C-1297-49E8-AA35-3968D0B13AC2}|L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\l\u00E4mp\u00F6tilan muunnos\\l\u00E4mp\u00F6tilan muunnos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8FB020C-1297-49E8-AA35-3968D0B13AC2}|L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos.csproj|solutionrelative:l\u00E4mp\u00F6tilan muunnos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "RelativeDocumentMoniker": "L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "RelativeToolTip": "L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:04:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "RelativeDocumentMoniker": "L\u00E4mp\u00F6tilan muunnos\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\L\u00E4mp\u00F6tilan muunnos\\L\u00E4mp\u00F6tilan muunnos\\Form1.cs [Design]",
+              "RelativeToolTip": "L\u00E4mp\u00F6tilan muunnos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:00:40.331Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
