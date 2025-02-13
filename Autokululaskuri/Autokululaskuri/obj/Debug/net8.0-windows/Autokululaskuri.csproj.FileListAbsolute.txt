@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\bin\Debug\net8.0-windows\Autokululaskuri.exe
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\bin\Debug\net8.0-windows\Autokululaskuri.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\bin\Debug\net8.0-windows\Autokululaskuri.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\bin\Debug\net8.0-windows\Autokululaskuri.dll
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\bin\Debug\net8.0-windows\Autokululaskuri.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.dll
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\refint\Autokululaskuri.dll
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\Autokululaskuri.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Autokululaskuri\Autokululaskuri\obj\Debug\net8.0-windows\ref\Autokululaskuri.dll
