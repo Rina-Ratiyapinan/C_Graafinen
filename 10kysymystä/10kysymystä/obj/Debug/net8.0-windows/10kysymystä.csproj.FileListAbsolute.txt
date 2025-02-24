@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\bin\Debug\net8.0-windows\10kysymystä.exe
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\bin\Debug\net8.0-windows\10kysymystä.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\bin\Debug\net8.0-windows\10kysymystä.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\bin\Debug\net8.0-windows\10kysymystä.dll
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\bin\Debug\net8.0-windows\10kysymystä.pdb
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\_10kysymystä.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.dll
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\refint\10kysymystä.dll
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.pdb
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\10kysymystä.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\10kysymystä\10kysymystä\obj\Debug\net8.0-windows\ref\10kysymystä.dll
