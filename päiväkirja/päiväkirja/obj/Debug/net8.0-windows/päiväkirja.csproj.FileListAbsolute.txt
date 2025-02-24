@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\bin\Debug\net8.0-windows\päiväkirja.exe
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\bin\Debug\net8.0-windows\päiväkirja.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\bin\Debug\net8.0-windows\päiväkirja.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\bin\Debug\net8.0-windows\päiväkirja.dll
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\bin\Debug\net8.0-windows\päiväkirja.pdb
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.dll
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\refint\päiväkirja.dll
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.pdb
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\päiväkirja.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\päiväkirja\päiväkirja\obj\Debug\net8.0-windows\ref\päiväkirja.dll

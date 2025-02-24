@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\bin\Debug\net8.0-windows\NimiTarkista.exe
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\bin\Debug\net8.0-windows\NimiTarkista.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\bin\Debug\net8.0-windows\NimiTarkista.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\bin\Debug\net8.0-windows\NimiTarkista.dll
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\bin\Debug\net8.0-windows\NimiTarkista.pdb
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.dll
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\refint\NimiTarkista.dll
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.pdb
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\NimiTarkista.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\NimiTarkista\NimiTarkista\obj\Debug\net8.0-windows\ref\NimiTarkista.dll
