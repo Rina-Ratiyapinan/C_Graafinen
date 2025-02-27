@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\bin\Debug\net8.0-windows\Harjoitus15_Sekuntikello.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\bin\Debug\net8.0-windows\Harjoitus15_Sekuntikello.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\bin\Debug\net8.0-windows\Harjoitus15_Sekuntikello.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\bin\Debug\net8.0-windows\Harjoitus15_Sekuntikello.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\bin\Debug\net8.0-windows\Harjoitus15_Sekuntikello.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\refint\Harjoitus15_Sekuntikello.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\Harjoitus15_Sekuntikello.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus15_Sekuntikello\Harjoitus15_Sekuntikello\obj\Debug\net8.0-windows\ref\Harjoitus15_Sekuntikello.dll

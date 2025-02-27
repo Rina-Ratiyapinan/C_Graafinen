@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Harjoitus15_Sekuntikello/1.0.0": {
+        "runtime": {
+          "Harjoitus15_Sekuntikello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harjoitus15_Sekuntikello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

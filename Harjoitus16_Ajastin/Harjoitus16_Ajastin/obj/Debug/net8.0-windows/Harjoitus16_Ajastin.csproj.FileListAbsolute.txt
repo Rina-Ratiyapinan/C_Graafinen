@@ -1,0 +1,17 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\bin\Debug\net8.0-windows\Harjoitus16_Ajastin.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\bin\Debug\net8.0-windows\Harjoitus16_Ajastin.deps.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\bin\Debug\net8.0-windows\Harjoitus16_Ajastin.runtimeconfig.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\bin\Debug\net8.0-windows\Harjoitus16_Ajastin.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\bin\Debug\net8.0-windows\Harjoitus16_Ajastin.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.CountDownForm.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.AssemblyInfoInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.AssemblyInfo.cs
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.sourcelink.json
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\refint\Harjoitus16_Ajastin.dll
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\Harjoitus16_Ajastin.genruntimeconfig.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus16_Ajastin\Harjoitus16_Ajastin\obj\Debug\net8.0-windows\ref\Harjoitus16_Ajastin.dll

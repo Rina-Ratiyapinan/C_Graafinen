@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8857A3B9-3113-4037-B5FB-872FBC565D2C}|Harjoitus16_Ajastin\\Harjoitus16_Ajastin.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\harjoitus16_ajastin\\harjoitus16_ajastin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8857A3B9-3113-4037-B5FB-872FBC565D2C}|Harjoitus16_Ajastin\\Harjoitus16_Ajastin.csproj|solutionrelative:harjoitus16_ajastin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8857A3B9-3113-4037-B5FB-872FBC565D2C}|Harjoitus16_Ajastin\\Harjoitus16_Ajastin.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\harjoitus16_ajastin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8857A3B9-3113-4037-B5FB-872FBC565D2C}|Harjoitus16_Ajastin\\Harjoitus16_Ajastin.csproj|solutionrelative:harjoitus16_ajastin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\Harjoitus16_Ajastin\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus16_Ajastin\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\Harjoitus16_Ajastin\\Form1.cs",
+              "RelativeToolTip": "Harjoitus16_Ajastin\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:21:16.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\Harjoitus16_Ajastin\\Form1.cs",
+              "RelativeDocumentMoniker": "Harjoitus16_Ajastin\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Harjoitus16_Ajastin\\Harjoitus16_Ajastin\\Form1.cs [Design]",
+              "RelativeToolTip": "Harjoitus16_Ajastin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:10:17.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
