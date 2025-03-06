@@ -1,0 +1,11 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\bin\Debug\Harjoitus17_Muistio.exe.config
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\bin\Debug\Harjoitus17_Muistio.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\bin\Debug\Harjoitus17_Muistio.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.csproj.AssemblyReference.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.Form1.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.Properties.Resources.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus17_Muistio\Harjoitus17_Muistio\obj\Debug\Harjoitus17_Muistio.Tietoa.resources

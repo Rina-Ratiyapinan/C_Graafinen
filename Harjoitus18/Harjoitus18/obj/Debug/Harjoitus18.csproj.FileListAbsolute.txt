@@ -1,0 +1,10 @@
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\bin\Debug\Harjoitus18.exe.config
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\bin\Debug\Harjoitus18.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\bin\Debug\Harjoitus18.pdb
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.csproj.AssemblyReference.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.AvainhenkilötForm.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.Properties.Resources.resources
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.csproj.GenerateResource.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.csproj.CoreCompileInputs.cache
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.exe
+C:\Users\rinar\source\repos\C_Graafinen\Harjoitus18\Harjoitus18\obj\Debug\Harjoitus18.pdb
