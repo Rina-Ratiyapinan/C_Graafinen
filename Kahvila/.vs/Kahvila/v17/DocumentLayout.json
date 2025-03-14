@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\kahvila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|solutionrelative:kahvila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\kahvila\\kahvila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|solutionrelative:kahvila\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\kahvila\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44DD95D-26CC-4A40-8434-BF404C1CE62D}|Kahvila\\Kahvila.csproj|solutionrelative:kahvila\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Kahvila\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.Designer.cs",
+              "RelativeToolTip": "Kahvila\\Form1.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:39:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.cs",
+              "RelativeDocumentMoniker": "Kahvila\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.cs",
+              "RelativeToolTip": "Kahvila\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:39:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.cs",
+              "RelativeDocumentMoniker": "Kahvila\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Kahvila\\Kahvila\\Form1.cs [Design]",
+              "RelativeToolTip": "Kahvila\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:30:22.875Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
