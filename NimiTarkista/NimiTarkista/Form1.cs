@@ -1,5 +1,6 @@
 using Microsoft.VisualBasic.ApplicationServices;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.IO;
 
 namespace NimiTarkista
 {
@@ -14,30 +15,37 @@ namespace NimiTarkista
         {
             VastausLB.Text = "";
             VastausLB.Visible = false;
+
             string[] pojat = File.ReadAllLines("C:/Users/rinar/source/repos/C_Graafinen/NimiTarkista/pojat.txt");
             string[] tytot = File.ReadAllLines("C:/Users/rinar/source/repos/C_Graafinen/NimiTarkista/tytöt.txt");
             string nimi = NimiTB.Text;
+
             int laskurip = 1;
             int laskurit = 1;
+
             foreach (string poika in pojat)
             {
                 if (nimi == poika)
                 {
-                    VastausLB.Text = "Nimesi on " + laskurip + " suosituin poikein nimi vuonna 2023";
-                    VastausLB.Visible=true;
+                    VastausLB.Text = $"Nimesi on {laskurip}. suosituin poikien nimi vuonna 2023";
+                    VastausLB.Visible = true;
+                    return;
                 }
                 laskurip++;
             }
+
             foreach (string tytto in tytot)
             {
                 if (nimi == tytto)
                 {
-                    VastausLB.Text = "Nimesi on " + laskurit + " suosituin poikein nimi vuonna 2023";
+                    VastausLB.Text = $"Nimesi on {laskurit}. suosituin tyttöjen nimi vuonna 2023";
                     VastausLB.Visible = true;
+                    return;
                 }
-                laskurip++;
+                laskurit++;  // Corrected counter increment
             }
-            if (VastausLB.Visible == false)
+
+            if (!VastausLB.Visible)
             {
                 VastausLB.Text = "Nimesi ei löytynyt suosituimpien nimien joukosta! :-(";
                 VastausLB.Visible = true;

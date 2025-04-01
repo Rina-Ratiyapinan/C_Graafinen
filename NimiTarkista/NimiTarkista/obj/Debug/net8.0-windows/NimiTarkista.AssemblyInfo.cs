@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NimiTarkista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf2b85e5c76b51cce475dd391ae155ada803b33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344f9b040511dfa2c69eba5fc57ad223835ed2d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("NimiTarkista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NimiTarkista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

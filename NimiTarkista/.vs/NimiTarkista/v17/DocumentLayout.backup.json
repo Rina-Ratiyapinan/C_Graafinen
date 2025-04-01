@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\nimitarkista\\nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|solutionrelative:nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\nimitarkista\\nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|solutionrelative:nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A23A72FF-B5A4-41CA-9EA2-F2C89485FD5A}|NimiTarkista\\NimiTarkista.csproj|solutionrelative:nimitarkista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,29 +21,32 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\NimiTarkista\\Form1.cs",
               "RelativeDocumentMoniker": "NimiTarkista\\Form1.cs",
               "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\NimiTarkista\\Form1.cs",
               "RelativeToolTip": "NimiTarkista\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T10:43:23.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\NimiTarkista\\Form1.cs",
               "RelativeDocumentMoniker": "NimiTarkista\\Form1.cs",
               "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\NimiTarkista\\NimiTarkista\\Form1.cs [Design]",
               "RelativeToolTip": "NimiTarkista\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:35:29.311Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-24T10:35:29.311Z"
             }
           ]
         }
