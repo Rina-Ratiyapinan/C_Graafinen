@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\managereservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\managereservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\manageclientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\manageclientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\hotel_management_system\\hotel_management_system\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\manageroomsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\managereservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\managereservationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\managereservationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\managereservationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\hotel_management_system\\manageclientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F114E3B0-2E03-472B-B06F-4DCAB19AA038}|Hotel_Management_System\\Hotel_Management_System.csproj|solutionrelative:hotel_management_system\\manageclientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageReservationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageReservationsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.cs",
+              "RelativeToolTip": "Hotel_Management_System\\ManageReservationsForm.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAkwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:54:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RESERVATION.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\RESERVATION.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\RESERVATION.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\RESERVATION.cs",
+              "RelativeToolTip": "Hotel_Management_System\\RESERVATION.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:20:32.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageReservationsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageReservationsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_System\\ManageReservationsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:03:03.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageReservationsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageReservationsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageReservationsForm.Designer.cs",
+              "RelativeToolTip": "Hotel_Management_System\\ManageReservationsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:02:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageRoomsForm.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageRoomsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageRoomsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageRoomsForm.cs",
+              "RelativeToolTip": "Hotel_Management_System\\ManageRoomsForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:44:51.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageRoomsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageRoomsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageRoomsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageRoomsForm.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_System\\ManageRoomsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:17:06.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ROOM.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ROOM.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ROOM.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ROOM.cs",
+              "RelativeToolTip": "Hotel_Management_System\\ROOM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:29:44.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLIENT.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\CLIENT.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\CLIENT.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\CLIENT.cs",
+              "RelativeToolTip": "Hotel_Management_System\\CLIENT.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:00:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageClientsForm.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageClientsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageClientsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageClientsForm.cs",
+              "RelativeToolTip": "Hotel_Management_System\\ManageClientsForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:04:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageClientsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageClientsForm.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_System\\ManageClientsForm.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\Hotel_Management_System\\Hotel_Management_System\\ManageClientsForm.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_System\\ManageClientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:38:30.921Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
