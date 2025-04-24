@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|c:\\users\\rinar\\source\\repos\\c_graafinen\\pizzaordersystem\\pizzaordersystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|solutionrelative:pizzaordersystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\pizzaordersystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|solutionrelative:pizzaordersystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\pizzaordersystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4913536E-483E-4F64-810A-9FD06893048C}|PizzaOrderSystem\\PizzaOrderSystem.csproj|solutionrelative:pizzaordersystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PizzaOrderSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "PizzaOrderSystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAB0EAAAAAAAAAAAAwDQEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:56:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "PizzaOrderSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.cs",
+              "RelativeToolTip": "PizzaOrderSystem\\Form1.cs",
+              "ViewState": "AgIAAC4CAAAAAAAAAAAAwEICAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:42:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "PizzaOrderSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\rinar\\source\\repos\\C_Graafinen\\PizzaOrderSystem\\PizzaOrderSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "PizzaOrderSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:29:19.788Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
